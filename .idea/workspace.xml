@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6cfde0f8-b797-4e49-8df5-7ca06a6d1b7d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/ocrTransformationKernel.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/document_part.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/raw_line.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-images/one-paragraph-one-image/input.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-images/one-paragraph-simple-test/input-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-images/one-paragraph-simple-test/input.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2cAp97s8jF1nu8wNQwfwuxI4DCN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.file_utils.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.utils.executor": "Debug",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/ocr-doc-transformer/ocrTransformationKernel/test-images/one-paragraph-one-image",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ocr-doc-transformer\ocrTransformationKernel\test-images\one-paragraph-one-image" />
+      <recent name="D:\ocr-doc-transformer\ocrTransformationKernel\test-images\one-paragraph-simple-test" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ocr-doc-transformer\ocrTransformationKernel\classes" />
+      <recent name="D:\ocr-doc-transformer\ocrTransformationKernel" />
+      <recent name="D:\ocr-doc-transformer\ocrTransformationKernel\test-images\one-paragraph-simple-test" />
+      <recent name="D:\ocr-doc-transformer\ocrTransformationKernel\one-paragraph-simple-test" />
+      <recent name="D:\ocr-doc-transformer\ocrTransformationKernel\test-docs\1" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5a2391486177-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13763.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6cfde0f8-b797-4e49-8df5-7ca06a6d1b7d" name="Changes" comment="" />
+      <created>1707564083896</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707564083896</updated>
+      <workItem from="1707564097936" duration="1433000" />
+      <workItem from="1707566495608" duration="3573000" />
+      <workItem from="1707842662738" duration="1725000" />
+      <workItem from="1707844476205" duration="2874000" />
+      <workItem from="1707855864988" duration="2501000" />
+      <workItem from="1710253184262" duration="214000" />
+      <workItem from="1712058794683" duration="1361000" />
+      <workItem from="1712076652128" duration="747000" />
+      <workItem from="1712120687431" duration="38000" />
+      <workItem from="1712216971198" duration="13869000" />
+      <workItem from="1712297670391" duration="2205000" />
+      <workItem from="1712331276811" duration="618000" />
+      <workItem from="1712640742835" duration="4726000" />
+      <workItem from="1712722924716" duration="7800000" />
+      <workItem from="1712810335026" duration="6384000" />
+      <workItem from="1712897265332" duration="3687000" />
+      <workItem from="1712932491974" duration="2722000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ocrTransformationKernel$file_utils.coverage" NAME="file_utils Coverage Results" MODIFIED="1707847050856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ocrTransformationKernel$main.coverage" NAME="main Coverage Results" MODIFIED="1712933536756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ocrTransformationKernel$utils.coverage" NAME="utils Coverage Results" MODIFIED="1712726098153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
