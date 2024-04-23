@@ -9,7 +9,7 @@ from utils import create_document
 # TEST_NAME = 'multiple-par-rotated'
 
 # TEST_NAME = 'list-numbers'
-TEST_NAME = 'list-dots'
+TEST_NAME = 'complex-example'
 
 Path('./secondary-images/' + TEST_NAME).mkdir(parents=True, exist_ok=True)
 Path('./result-docs/' + TEST_NAME).mkdir(parents=True, exist_ok=True)
